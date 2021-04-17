@@ -22,8 +22,10 @@ Software I usually install on a new Windows PC.
 * WSL2
 * Microsoft Terminal
 * Ubuntu
-* kubectl
+* Node/npm (incl Chocolatey/python)
+* Azure Function Core Tools (`npm i -g azure-functions-core-tools@3 --unsafe-perm true`)
 * Azure CLI
+* kubectl
 
 ### Other
 
