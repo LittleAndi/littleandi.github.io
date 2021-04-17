@@ -31,6 +31,7 @@ Software I usually install on a new Windows PC.
 
 * Google Chrome
 * Firefox
+* Slack
 * Microsoft Teams
 * Office/Office 365
 * Microsoft Visio
