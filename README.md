@@ -36,6 +36,7 @@ Software I usually install on a new Windows PC.
 * Microsoft Visio
 * Dropbox
 * Zoom
+* Adobe CC
 
 ### Sometimes
 
