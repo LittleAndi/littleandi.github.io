@@ -44,6 +44,7 @@ Software I usually install on a new Windows PC.
 * Blender
 * Discord
 * Steam
+* OBS Studio
 
 ## Links
 
