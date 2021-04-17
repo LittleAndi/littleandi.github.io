@@ -29,6 +29,7 @@ Software I usually install on a new Windows PC.
 
 ### Other
 
+* Sublime Text
 * Google Chrome
 * Firefox
 * Slack
