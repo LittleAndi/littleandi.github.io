@@ -26,6 +26,7 @@ Software I usually install on a new Windows PC.
 * Azure Function Core Tools (`npm i -g azure-functions-core-tools@3 --unsafe-perm true`)
 * Azure CLI
 * kubectl
+* SQL Server Management Studio
 
 ### Other
 
