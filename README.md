@@ -27,6 +27,7 @@ Software I usually install on a new Windows PC.
 * Azure CLI
 * kubectl
 * SQL Server Management Studio
+* [Insomnia](https://insomnia.rest/) / PostMan
 
 ### Other
 
