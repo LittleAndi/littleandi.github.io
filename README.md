@@ -28,6 +28,9 @@ Software I usually install on a new Windows PC.
 * kubectl
 * SQL Server Management Studio
 * [Insomnia](https://insomnia.rest/) / PostMan
+* Service Bus Explorer
+* WinSQL (for work PC)
+* iSeries Access ODBC Driver (for work PC)
 
 ### Other
 
@@ -41,6 +44,7 @@ Software I usually install on a new Windows PC.
 * Dropbox
 * Zoom
 * Adobe CC
+* NYCE (for Work PC)
 
 ### Sometimes
 
