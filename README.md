@@ -39,7 +39,7 @@ Software I usually install on a new Windows PC.
 * Firefox
 * Slack
 * Microsoft Teams
-* Office/Office 365
+* Microsoft Office/Office 365
 * Microsoft Visio
 * Dropbox
 * Zoom
