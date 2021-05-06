@@ -44,6 +44,7 @@ Software I usually install on a new Windows PC.
 * Dropbox
 * Zoom
 * Adobe CC
+* FileZilla
 * NYCE (for Work PC)
 
 ### Sometimes
