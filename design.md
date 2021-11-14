@@ -15,3 +15,4 @@
    - create an empathy map (20 min)
 1. Generate ideas and potential solutions (1 hour)
    - 1-2-4-All - Start alone, then in pairs, then foursomes, and finally as a whole group (1-2-4 min + presentation 5 min x group of four)
+   - crazy 8, one A4, 8 designs
