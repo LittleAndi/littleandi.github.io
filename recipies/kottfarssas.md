@@ -9,4 +9,4 @@
 - 4 dl grädde
 - salt och peppar efter smak
 
-**_NOT:_** Använde 376 g torr spagetti => minst 6-7 portitioner
+**_NOT 2022-09-04:_** 376 g torr spagetti => minst 6-7 portitioner
