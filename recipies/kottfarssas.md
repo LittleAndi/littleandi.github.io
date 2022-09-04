@@ -8,3 +8,5 @@
 - 5-7 msk chilisås
 - 4 dl grädde
 - salt och peppar efter smak
+
+**_NOTE:_** Använde 376 g torr spagetti => minst 6-7 portitioner
