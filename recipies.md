@@ -13,6 +13,7 @@ Just a bunch of links to different recipies that I like. Many of them are i Swed
 
 ## To try out
 
+- [Baked Chicken & Chorizo Gnocchi](https://www.instagram.com/reel/Cc7zPq8Fhmj/)
 - [One pan beef and rice](https://www.instagram.com/p/Cj7z1B0JgWW/)
 - [Mushroom & bacon baked feta pasta](recipies/mushroom-and-bacon-baked-feta-pasta.md)
 - [Korv stroganoff med ris och gröna ärtor](https://www.tasteline.com/recept/korv-stroganoff-med-ris-och-grona-artor/)
