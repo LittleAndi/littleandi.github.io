@@ -16,6 +16,7 @@ Software I usually install on a new Windows PC.
 
 * Git
 * .NET SDK
+* [Artifacts Credentials Provider](https://github.com/microsoft/artifacts-credprovider)
 * Visual Studio Code
 * Visual Studio Community Edition
 * Docker (Desktop)
