@@ -59,3 +59,4 @@ Software I usually install on a new Windows PC.
 
 * [Technical Agile Pitfalls and Secrets of Success](https://www.youtube.com/watch?v=jxXwm2D3S20)
 * [Agile Team Development](https://proagile.se/teams)
+* [quicktype.io](https://app.quicktype.io/)
