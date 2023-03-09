@@ -24,7 +24,7 @@ Software I usually install on a new Windows PC.
 * Microsoft Terminal
 * Ubuntu
 * Node/npm (incl Chocolatey/python)
-* Azure Function Core Tools (`npm i -g azure-functions-core-tools@3 --unsafe-perm true`)
+* Azure Function Core Tools (`npm i -g azure-functions-core-tools@4 --unsafe-perm true`)
 * Azure CLI
 * kubectl
 * SQL Server Management Studio
