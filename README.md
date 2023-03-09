@@ -19,7 +19,6 @@ Software I usually install on a new Windows PC.
 * [Azure Artifacts Credential Provider](https://github.com/microsoft/artifacts-credprovider)
 * Visual Studio Code
 * Visual Studio Community Edition
-* Docker (Desktop)
 * WSL2
 * Microsoft Terminal
 * Ubuntu
@@ -54,6 +53,7 @@ Software I usually install on a new Windows PC.
 * Discord
 * Steam
 * OBS Studio
+* Docker (Desktop)
 
 ## Links
 
