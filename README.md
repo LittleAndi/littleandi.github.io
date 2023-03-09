@@ -64,3 +64,4 @@ Software I usually install on a new Windows PC.
 * [Technical Agile Pitfalls and Secrets of Success](https://www.youtube.com/watch?v=jxXwm2D3S20)
 * [Agile Team Development](https://proagile.se/teams)
 * [quicktype.io](https://app.quicktype.io/)
+* [How to back up and restore a Windows Subsystem for Linux (WSL) distro](https://www.xda-developers.com/how-back-up-restore-wsl/)
