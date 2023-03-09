@@ -18,6 +18,10 @@ Software I usually install on a new Windows PC.
 * .NET SDK
 * [Azure Artifacts Credential Provider](https://github.com/microsoft/artifacts-credprovider)
 * Visual Studio Code
+  * GitLens `eamodio.gitlens`
+  * C# `ms-dotnettools.csharp`
+  * Azure Functions `ms-azuretools.vscode-azurefunctions`
+  * vscode-json `andyyaldoo.vscode-json`
 * Visual Studio Community Edition
 * WSL2
 * Microsoft Terminal
