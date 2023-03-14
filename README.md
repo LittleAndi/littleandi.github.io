@@ -22,6 +22,7 @@ Software I usually install on a new Windows PC.
   * C# `ms-dotnettools.csharp`
   * Azure Functions `ms-azuretools.vscode-azurefunctions`
   * vscode-json `andyyaldoo.vscode-json`
+  * Bicep `ms-azuretools.vscode-bicep`
 * Visual Studio Community Edition
 * WSL2
 * Microsoft Terminal
