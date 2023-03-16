@@ -23,6 +23,7 @@ Software I usually install on a new Windows PC.
   * Azure Functions `ms-azuretools.vscode-azurefunctions`
   * vscode-json `andyyaldoo.vscode-json`
   * Bicep `ms-azuretools.vscode-bicep`
+  * EDIFACT `DAXaholic.vscode-edifact`
 * Visual Studio Community Edition
 * WSL2
 * Microsoft Terminal
