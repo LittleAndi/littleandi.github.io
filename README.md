@@ -52,6 +52,7 @@ Software I usually install on a new Windows PC.
 * Adobe CC
 * FileZilla
 * NYCE (for Work PC)
+* [Revert back to Windows 10 right click menu](https://answers.microsoft.com/en-us/windows/forum/all/problems-reverting-back-to-the-windows-10-file/488858e1-8de1-499e-8fd4-51357f716ca8)
 
 ### Sometimes
 
