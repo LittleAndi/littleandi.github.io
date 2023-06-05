@@ -18,12 +18,28 @@ Software I usually install on a new Windows PC.
 * .NET SDK
 * [Azure Artifacts Credential Provider](https://github.com/microsoft/artifacts-credprovider)
 * Visual Studio Code
-  * GitLens `eamodio.gitlens`
-  * C# `ms-dotnettools.csharp`
   * Azure Functions `ms-azuretools.vscode-azurefunctions`
-  * vscode-json `andyyaldoo.vscode-json`
+  * C# `ms-dotnettools.csharp`
   * Bicep `ms-azuretools.vscode-bicep`
   * EDIFACT `DAXaholic.vscode-edifact`
+  * GitLens `eamodio.gitlens`
+  * Hex Editor `ms-vscode.hexeditor`
+  * Jypyter
+   * `ms-toolsai.jupyter`
+   * `ms-toolsai.vscode-jupyter-cell-tags`
+   * `ms-toolsai.jupyter-keymap`
+   * `ms-toolsai.jupyter-renderers`
+   * `ms-toolsai.vscode-jupyter-slideshow`
+  * Markdown Converter `manuth.markdown-converter`
+  * Markdown Preview (Mermaid support) `bierner.markdown-mermaid`
+  * MJML `mjmlio.vscode-mjml`
+  * Python `ms-python.python`
+   * Black Formatter (python) `ms-python.black-formatter`
+   * Pylance `ms-python.vscode-pylance`
+  * Rainbow CSV `mechatroner.rainbow-csv`
+  * TabOut `albert.TabOut`
+  * vscode-json `andyyaldoo.vscode-json`
+  * XML Tools `DotJoshJohnson.xml`
 * Visual Studio Community Edition
 * WSL2
 * Microsoft Terminal
