@@ -1,10 +1,10 @@
-# Recipies
+# Recipes
 
-Just a bunch of links to different recipies that I like. Many of them are i Swedish.
+Just a bunch of links to different recipes that I like. Many of them are i Swedish.
 
 ## Good
 
-- [Köttfärssås](recipies/kottfarssas.md)
+- [Köttfärssås](recipes/kottfarssas.md)
 - [Biff stroganoff med sjögräsnudlar och inlagd gurka](https://www.tasteline.com/recept/biffstroganoff-med-sjograsnudlar-och-inlagd-gurka/)
 
 ## Ok
@@ -13,9 +13,9 @@ Just a bunch of links to different recipies that I like. Many of them are i Swed
 
 ## To try out
 
-- [Baked Chicken & Chorizo Gnocchi](recipies/baked-chicken-and-chorizo-gnocchi.md)
+- [Baked Chicken & Chorizo Gnocchi](recipes/baked-chicken-and-chorizo-gnocchi.md)
 - [One pan beef and rice](https://www.instagram.com/p/Cj7z1B0JgWW/)
-- [Mushroom & bacon baked feta pasta](recipies/mushroom-and-bacon-baked-feta-pasta.md)
+- [Mushroom & bacon baked feta pasta](recipes/mushroom-and-bacon-baked-feta-pasta.md)
 - [Korv stroganoff med ris och gröna ärtor](https://www.tasteline.com/recept/korv-stroganoff-med-ris-och-grona-artor/)
 
 ## Not the best
