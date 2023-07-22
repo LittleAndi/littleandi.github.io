@@ -5,6 +5,7 @@ Just a bunch of links to different recipes that I like. Many of them are i Swedi
 ## Good
 
 - [Köttfärssås](recipes/kottfarssas.md)
+- [Tacos](recipes/tacos.md)
 - [Biff stroganoff med sjögräsnudlar och inlagd gurka](https://www.tasteline.com/recept/biffstroganoff-med-sjograsnudlar-och-inlagd-gurka/)
 
 ## Ok
