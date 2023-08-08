@@ -1,86 +1,29 @@
 # The LittleAndi GitHub Pages
 
-## Software
+## PC Specs
 
-Software I usually install on a new Windows PC.
+Case: Fractal Design North Black with tinted glass
+Motherboard: Asrock B650M-HDV/M.2 + Asrock M.2 WiFi Kit
+CPU: AMD Ryzen 7 7800X3D
+CPU Cooler: Noctua NH-L9x65 SE-AM4
+GPU: TBD
+RAM: Kingston 32GB (2x16GB) DDR5 6000MHz CL36 Fury Beast RGB AMD EXPO
+PSU: Corsair RM850x v3
+SSD: Kingston Fury Renegade M.2 NVMe SSD Gen 4 2TB
+Monitors: MSI G2712 27" + MSI G271 27"
 
-### Start
+### Laptop
 
-* Microsoft Edge (usually pre installed)
-* 1Password
-* Spotify
-* Trend Micro (for work PC)
-* Global Protect (for work PC)
+**MSI GE63 Raider RGB**
 
-### Development
-
-* Git
-* .NET SDK
-* [Azure Artifacts Credential Provider](https://github.com/microsoft/artifacts-credprovider)
-* Visual Studio Code
-  * Azure Functions `ms-azuretools.vscode-azurefunctions`
-  * C# `ms-dotnettools.csharp`
-  * Bicep `ms-azuretools.vscode-bicep`
-  * EDIFACT `DAXaholic.vscode-edifact`
-  * GitLens `eamodio.gitlens`
-  * Hex Editor `ms-vscode.hexeditor`
-  * Jypyter
-    - `ms-toolsai.jupyter`
-    - `ms-toolsai.vscode-jupyter-cell-tags`
-    - `ms-toolsai.jupyter-keymap`
-    - `ms-toolsai.jupyter-renderers`
-    - `ms-toolsai.vscode-jupyter-slideshow`
-  * Markdown Converter `manuth.markdown-converter`
-  * Markdown Preview (Mermaid support) `bierner.markdown-mermaid`
-  * MJML `mjmlio.vscode-mjml`
-  * Python `ms-python.python`
-    - Black Formatter (python) `ms-python.black-formatter`
-    - Pylance `ms-python.vscode-pylance`
-  * Rainbow CSV `mechatroner.rainbow-csv`
-  * TabOut `albert.TabOut`
-  * vscode-json `andyyaldoo.vscode-json`
-  * XML Tools `DotJoshJohnson.xml`
-* Visual Studio Community Edition
-* WSL2
-* Microsoft Terminal
-* Ubuntu
-* Node/npm (incl Chocolatey/python)
-* Azure Function Core Tools (`npm i -g azure-functions-core-tools@4 --unsafe-perm true`)
-* Azure CLI
-* kubectl
-* SQL Server Management Studio
-* [Insomnia](https://insomnia.rest/) / PostMan
-* Service Bus Explorer
-* WinSQL (for work PC)
-* iSeries Access ODBC Driver (for work PC)
-
-### Other
-
-* Sublime Text
-* Google Chrome
-* Firefox
-* Slack
-* Microsoft Teams
-* Microsoft Office/Office 365
-* Microsoft Visio
-* Dropbox
-* Zoom
-* Adobe CC
-* FileZilla
-* NYCE (for Work PC)
-* [Revert back to Windows 10 right click menu](https://answers.microsoft.com/en-us/windows/forum/all/problems-reverting-back-to-the-windows-10-file/488858e1-8de1-499e-8fd4-51357f716ca8)
-
-### Sometimes
-
-* Blender
-* Discord
-* Steam
-* OBS Studio
-* Docker (Desktop)
+- Core i7
+- GTX 1060
 
 ## Links
 
-* [Technical Agile Pitfalls and Secrets of Success](https://www.youtube.com/watch?v=jxXwm2D3S20)
-* [Agile Team Development](https://proagile.se/teams)
-* [quicktype.io](https://app.quicktype.io/)
-* [How to back up and restore a Windows Subsystem for Linux (WSL) distro](https://www.xda-developers.com/how-back-up-restore-wsl/)
+- [Software](./software.md)
+- [Recipes](./recipes.md)
+- [Technical Agile Pitfalls and Secrets of Success](https://www.youtube.com/watch?v=jxXwm2D3S20)
+- [Agile Team Development](https://proagile.se/teams)
+- [quicktype.io](https://app.quicktype.io/)
+- [How to back up and restore a Windows Subsystem for Linux (WSL) distro](https://www.xda-developers.com/how-back-up-restore-wsl/)
