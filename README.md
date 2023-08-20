@@ -8,7 +8,7 @@
 | Motherboard | Asrock B650M-HDV/M.2 + Asrock M.2 WiFi Kit                       |
 | CPU         | AMD Ryzen 7 7800X3D                                              |
 | CPU Cooler  | Noctua NH-L9x65 SE-AM4                                           |
-| GPU         | TBD                                                              |
+| GPU         | MSI Radeon RX 6750 XT MECH 2X 12G OC                             |
 | RAM         | Kingston 32GB (2x16GB) DDR5 6000MHz CL36 Fury Beast RGB AMD EXPO |
 | PSU         | Corsair RM850x v3                                                |
 | SSD         | Kingston Fury Renegade M.2 NVMe SSD Gen 4 2TB                    |
