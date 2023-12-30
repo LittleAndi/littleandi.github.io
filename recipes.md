@@ -2,6 +2,8 @@
 
 Just a bunch of links to different recipes that I like. Many of them are i Swedish.
 
+[Sous vide stuff](recipes/sousvide.md)
+
 ## Good
 
 - [Köttfärssås](recipes/kottfarssas.md)
