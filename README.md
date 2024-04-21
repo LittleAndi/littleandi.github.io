@@ -29,3 +29,4 @@
 - [Agile Team Development](https://proagile.se/teams)
 - [quicktype.io](https://app.quicktype.io/)
 - [How to back up and restore a Windows Subsystem for Linux (WSL) distro](https://www.xda-developers.com/how-back-up-restore-wsl/)
+- [Excalidraw](https://excalidraw.com/)
