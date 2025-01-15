@@ -44,10 +44,10 @@ Software I usually install on a new Windows PC.
   - vscode-json `andyyaldoo.vscode-json`
   - XML Tools `DotJoshJohnson.xml`
 - Visual Studio Community Edition
-- WSL2
-- Microsoft Terminal
-- Ubuntu
+- [WSL2](https://learn.microsoft.com/en-us/windows/wsl/install)
+  - Ubuntu (or import from a previous installation)
 - Node/npm (incl Chocolatey/python)
+- Yarn
 - Azure Function Core Tools (`npm i -g azure-functions-core-tools@4 --unsafe-perm true`)
 - Azure CLI
 - kubectl
@@ -71,6 +71,9 @@ Software I usually install on a new Windows PC.
 - Adobe CC
 - FileZilla
 - [Revert back to Windows 10 right click menu](https://answers.microsoft.com/en-us/windows/forum/all/problems-reverting-back-to-the-windows-10-file/488858e1-8de1-499e-8fd4-51357f716ca8)
+- Change network category for home home network
+  - `Get-NetConnectionProfile`
+  - `Set-NetConnectionProfile -Name "NetworkName" -NetWorkCategory Private`
 
 ## Sometimes
 
@@ -79,3 +82,9 @@ Software I usually install on a new Windows PC.
 - Steam
 - OBS Studio
 - Docker (Desktop)
+
+## Ubuntu
+
+```bash
+sudo apt install net-tools
+```
