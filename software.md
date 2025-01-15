@@ -7,15 +7,20 @@ Software I usually install on a new Windows PC.
 - Microsoft Edge (usually pre installed)
 - 1Password
 - Spotify
-- Trend Micro (for work PC)
+- Lenovo Service Bridge (for work PC)
+- Cortex XDR (for work PC)
 - Global Protect (for work PC)
+
+- [Powershell](https://github.com/PowerShell/PowerShell/releases)
+- [Microsoft 365 applications](https://portal.office.com/account/) (for work PC)
 
 ## Development
 
-- Git
-- .NET SDK
+- [Visual Studio Code](https://code.visualstudio.com/Download) (install before Git if you want vscode as default git editor)
+- [Git](https://git-scm.com/downloads/win)
+- [.NET SDK](https://dotnet.microsoft.com/en-us/)
 - [Azure Artifacts Credential Provider](https://github.com/microsoft/artifacts-credprovider)
-- Visual Studio Code
+- Visual Studio Code (extensions)
   - Azure Functions `ms-azuretools.vscode-azurefunctions`
   - C# `ms-dotnettools.csharp`
   - Bicep `ms-azuretools.vscode-bicep`
@@ -65,7 +70,6 @@ Software I usually install on a new Windows PC.
 - Zoom
 - Adobe CC
 - FileZilla
-- NYCE (for Work PC)
 - [Revert back to Windows 10 right click menu](https://answers.microsoft.com/en-us/windows/forum/all/problems-reverting-back-to-the-windows-10-file/488858e1-8de1-499e-8fd4-51357f716ca8)
 
 ## Sometimes
