@@ -13,6 +13,7 @@ Software I usually install on a new Windows PC.
 
 - [Powershell](https://github.com/PowerShell/PowerShell/releases)
 - [Microsoft 365 applications](https://portal.office.com/account/) (for work PC)
+  - [Enable OneDrive](https://support.microsoft.com/en-us/office/onedrive-won-t-start-0c158fa6-0cd8-4373-98c8-9179e24f10f2)
 
 ## Development
 
