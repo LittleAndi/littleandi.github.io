@@ -20,6 +20,8 @@ Software I usually install on a new Windows PC.
 - [Visual Studio Code](https://code.visualstudio.com/Download) (install before Git if you want vscode as default git editor)
 - [Git](https://git-scm.com/downloads/win)
 - [.NET SDK](https://dotnet.microsoft.com/en-us/)
+  - [dotnet outdated](https://github.com/dotnet-outdated/dotnet-outdated)
+    `dotnet tool install --global dotnet-outdated-tool`
 - [Azure Artifacts Credential Provider](https://github.com/microsoft/artifacts-credprovider)
 - Visual Studio Code (extensions)
   - Azure Functions `ms-azuretools.vscode-azurefunctions`
