@@ -63,7 +63,7 @@ Software I usually install on a new Windows PC.
 
 ## Other
 
-- Sublime Text
+- [Sublime Text](https://www.sublimetext.com/)
 - [Notion](https://www.notion.com/)
 - Google Chrome
 - Firefox
