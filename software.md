@@ -62,6 +62,7 @@ Software I usually install on a new Windows PC.
 ## Other
 
 - Sublime Text
+- [Notion](https://www.notion.com/)
 - Google Chrome
 - Firefox
 - Slack
