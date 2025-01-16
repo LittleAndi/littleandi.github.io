@@ -52,6 +52,7 @@ Software I usually install on a new Windows PC.
 - Azure CLI
 - kubectl
 - SQL Server Management Studio
+- [DBeaver](https://dbeaver.io/)
 - [Insomnia](https://insomnia.rest/) / PostMan
 - Service Bus Explorer
 - WinSQL (for work PC)
