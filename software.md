@@ -56,7 +56,8 @@ Software I usually install on a new Windows PC.
 - kubectl
 - SQL Server Management Studio
 - [DBeaver](https://dbeaver.io/)
-- [Insomnia](https://insomnia.rest/) / PostMan
+- [Insomnia](https://insomnia.rest/)
+  - `insomnia-plugin-dotenv`
 - Service Bus Explorer
 - WinSQL (for work PC)
 - iSeries Access ODBC Driver (for work PC)
